@@ -1,0 +1,22 @@
+Exploring Text Embeddings and Fine Tuning- AN industry Prescriptive
+Agenda:
+1. Fine tuning of already train ed models
+2. LLM's (What actually happned? also can we fine tune that?
+
+-each time a new word occurs in voacb, add new label in 
+WOrd EMbedding model: they keep large amount of 
+sparcity: in a vecotr alote of 0's and only 3 three's
+Benefits of word embedding!
+Mo sparcity, and not are orthogonal
+
+pehly sequence modeling karty thy, aur realtion bhol jaty thy czof large sequence,
+We'll use BERT model first!!
+Mistrall is open souyrce GPT, we can use view its architecture and fine tune it!!
+
+startup have prototpe cancer prediction, i dont have free sources , we can use already trained models
+Open source dataset selection from HUGGING FACE. 
+
+Diffrences created between data samples -- to deal with large amount of samples,
+200K in cancer Prediction Dataset!!
+
+we get pre trained model, on mental, anxiety disorders we fine tuend that, so i able to make my own chatbot for this problem, which performs better than any other LLM.
